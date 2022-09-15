@@ -39,7 +39,7 @@ public class Conta {
 	}
 
 	protected String exibirMensagem() {
-        return "Bem vindo ao Internet Banking do Alan o Brabo!";
+        return "Bem vindo ao Internet Banking Rhayan!";
     }  
    
     Conta(){
